@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 🔭 Currently working on [research with my lecturer](https://github.com/zeerafle/text-mining-clustering)
 - 🌱 Currently learning about Data Science and Back-End Apps
 - 📫 How to reach me: [vsefareez@student.unmul.ac.id](mailto:vsefareez@student.unmul.ac.id)
+
+
+<p align="left">
+<a href="https://github.com/zeerafle">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeerafle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeerafle&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
