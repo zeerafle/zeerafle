@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on [research with my lecturer](https://github.com/zeerafle/text-mining-clustering)
 - 🌱 Currently learning about Data Science and Back-End Apps
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/samfareez/)
+- 📫 How to reach me: [vsefareez@student.unmul.ac.id](mailto:vsefareez@student.unmul.ac.id)
