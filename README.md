@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently learning about Data Science and Back-End Apps
-- 📫 How to reach me: [vsefareez@student.unmul.ac.id](mailto:vsefareez@student.unmul.ac.id)
+- 📫 How to reach me: [https://www.linkedin.com/in/samfareez/](LinkedIn)
 
 
 <p align="left">
