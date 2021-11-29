@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently learning about Data Science and Back-End Apps
-- 📫 How to reach me: [https://www.linkedin.com/in/samfareez/](LinkedIn)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samfareez/)
 
 
 <p align="left">
