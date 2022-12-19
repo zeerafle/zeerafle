@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 🌱 Currently learning about Data Science and Back-End Apps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samfareez/)
 
+My Badge:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <p align="left">
 <a href="https://github.com/zeerafle">
