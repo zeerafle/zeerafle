@@ -20,4 +20,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: Vauwez Sam El Fareez
+          CREDLY_USER: vauwez-sam-el-fareez
