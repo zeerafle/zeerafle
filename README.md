@@ -8,8 +8,7 @@
 
 Informatics student who enjoys doing AI/ML-related work.
 
-- 🌱 Currently focused learning on MLOps
-- Currently working on:
+- 🌱 Currently working on:
 
   | Projects | Tech Stack |
   | --- | --- |
