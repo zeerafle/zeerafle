@@ -14,3 +14,10 @@ Informatics student who enjoys doing AI/ML-related work.
   | --- | --- |
   | Oil Plam Stem Disease Classification for undergraduate thesis | ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)|
 
+- 📌 Other projects:
+
+  | Projects | Tech Stack |
+  | --- | --- |
+  | [Informatika Unmul Citation style](https://github.com/zeerafle/if-citation-style) | *just plain .csl file |
+
+Also check out pinned repository below
