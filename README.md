@@ -10,7 +10,7 @@ Student who enjoys doing AI/ML-related work and building something with web tech
 
   | Projects | Tech Stack |
   | --- | --- |
-  | Text2Video AI generation | ![](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![]() |
+  | Text2Video AI generation | ![](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu) |
 
   
 - 📌 Other projects:
