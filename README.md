@@ -10,6 +10,7 @@ Student who enjoys doing AI/ML-related work and building something with web tech
 
   | Projects | Tech Stack |
   | --- | --- |
+  | [Dilkush - A language learning workspace](https://dilkush.web.app) | ![](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/Genkit-4f39f6?style=for-the-badge) ![](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
   | [Text2Video Sign Language](https://github.com/zeerafle/t2v-sign-language) | ![](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu) |
 
   
