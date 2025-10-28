@@ -4,12 +4,12 @@
 
 Student who enjoys doing AI/ML-related work and building something with web technologies.
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.credential.net/2da6db1c-3874-469f-a7f0-dedeaff8d09a">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85569553" alt="TensorFlow Developer Certificate">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85569553" alt="TensorFlow Developer Certificate" width="150">
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SamFareez-8322/2990C7E53DAE60A9?sharingId=C5FF9EF01F86E08">
-    <img src="https://learn.microsoft.com/id-id/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified Associate">
+    <img src="https://learn.microsoft.com/id-id/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified Associate" width="150">
   </a>
 </div>
 
